@@ -1,2 +1,2 @@
-flask
-tld
+flask==2.0.1
+tld==0.12.6
